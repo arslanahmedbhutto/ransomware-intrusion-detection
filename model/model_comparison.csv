@@ -1,0 +1,10 @@
+Model,Accuracy,Balanced accuracy,Macro F1,Train time (s)
+Hist Gradient Boosting,0.9942,0.9943,0.9943,12.5395
+Decision Tree,0.9938,0.9937,0.9938,2.026
+Bagging (decision trees),0.9935,0.9935,0.9936,13.3141
+Random Forest,0.9932,0.9932,0.9932,16.4058
+Extra Trees,0.9922,0.9923,0.9923,15.5615
+k-Nearest Neighbours,0.9819,0.982,0.982,1.0933
+Logistic Regression,0.883,0.8813,0.8799,11.2835
+AdaBoost,0.8799,0.8661,0.872,32.3008
+Gaussian Naive Bayes,0.7957,0.8143,0.7949,1.5564
