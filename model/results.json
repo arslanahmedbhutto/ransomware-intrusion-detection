@@ -1,0 +1,24 @@
+{
+  "model": "Hist Gradient Boosting",
+  "sklearn_version": "1.9.1",
+  "test_accuracy": 0.9942,
+  "test_balanced_accuracy": 0.9943,
+  "test_macro_f1": 0.9943,
+  "blocked_cv_accuracy_mean": 0.9791,
+  "blocked_cv_accuracy_std": 0.0109,
+  "features": [
+    "Time",
+    "Protocol",
+    "Flag",
+    "Family",
+    "Clusters",
+    "SeedAddress",
+    "ExpAddress",
+    "BTC",
+    "USD",
+    "Netflow_Bytes",
+    "IPaddress",
+    "Threats",
+    "Port"
+  ]
+}
